@@ -1,0 +1,13 @@
+ <!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd" >
+  
+<suite name="October202MavenProject" verbose="2" >
+  <test name="Selnenium scripts" >
+    <classes>
+       <class name="com.TestNG.AnnotationsTestNG" />
+    </classes>
+  </test>
+ 
+  
+
+</suite>
+ 
